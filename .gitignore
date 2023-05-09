@@ -3,3 +3,5 @@ __pycache__/
 .idea/
 data/
 .DS_Store
+db.sqlite3
+Makefile
